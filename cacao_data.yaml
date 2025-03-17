@@ -1,0 +1,16 @@
+# train: E:\Capstone\dataset\v14\train\images
+# val: E:\Capstone\dataset\v14\valid\images
+# test: E:\Capstone\dataset\v14\test\images
+
+# nc: 3
+# names: ['A', 'B', 'C']
+
+train: E:\Capstone\dataset\v14\train\images
+train_labels: E:\Capstone\dataset\v14\train\labels
+val: E:\Capstone\dataset\v14\valid\images
+val_labels: E:\Capstone\dataset\v14\valid\labels
+test: E:\Capstone\dataset\v14\test\images
+test_labels: E:\Capstone\dataset\v14\test\labels
+
+nc: 3
+names: ['A', 'B', 'C']
